@@ -1,5 +1,6 @@
 module.exports = {
     entry: "./src/index.js",
+    watch: true,
     output: {
         path: "dist/assets",
         filename: "bundle.min.js",

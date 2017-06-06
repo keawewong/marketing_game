@@ -4,20 +4,22 @@
   "description": "World Intelligence Strategic Mind System",
   "main": "server.js",
   "scripts": {
-    "prestart": "node_modules/.bin/webpack",
+
+    "webpack": "node_modules/.bin/webpack",
     "local": "node_modules/.bin/webpack-dev-server",
-    "start": "./node_modules/.bin/nodemon --watch dist/ --watch server.js --watch serverJS/"
+    "start": "./node_modules/.bin/nodemon --watch dist/ --watch server.js --watch serverJS/ --delay 9000ms"
   },
   "author": "Keawe Wong",
   "license": "MIT",
   "devDependencies": {
-    "babel-cli": "^6.18.0",
-    "babel-loader": "^6.2.7",
-    "babel-preset-latest": "^6.16.0",
-    "babel-preset-react": "^6.16.0",
-    "babel-preset-stage-0": "^6.16.0",
-    "webpack": "^1.13.3",
-    "webpack-dev-server": "^1.16.2"
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "webpack": "^2.6.1",
+    "webpack-dev-server": "^2.4.5"
   },
   "dependencies": {
     "body-parser": "^1.15.2",

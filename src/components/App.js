@@ -37,9 +37,8 @@ class App extends Component {
 
   }
 
-
   componentWillMount() {
-    console.log('>>>>>>Wil mount:')
+    console.log('>>>>>>Wil mount: ---> this.props', this.props)
     console.log('isOnLoad:', this.isOnLoad)
 
     this.isOnLoad = true
@@ -70,6 +69,7 @@ class App extends Component {
       console.log('this.state:', this.state), 'this.isOnLoad', this.isOnLoad
     }
   }
+
 
 
   shouldComponentUpdate(nextProps, nextState) {

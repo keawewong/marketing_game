@@ -1,0 +1,255 @@
+ 1 | The amount of energy saved by recycling one glass bottle is equal to:                             |         |      1 | s1            |            |            | ../userUpload/Lightbulbs.jpg
+4 hours of lightbulb energy                                              | t\
+7 hours of lightbulb energy
+1 hour of lightbulb energy
+24 hours of lightbulb energy
+
+
+  3 | What percentage of newspapers made in the UK are printed on recycled paper?                       |         |      1 | s3            |            |            | ../userUpload/Newspaper.jpg
+ 75%
+ 100%  t
+50%
+25%
+
+  2 | Every ton of paper recycled saves:                                                                |         |      1 | s2            |            |            | ../userUpload/trees.jpg
+40 trees
+2 trees
+9 trees
+17 trees        t
+
+
+
+  5 | What percentage of Earth is covered in water?                                                     |         |      2 | s4            |            |            | ../userUpload/Earth.jpg
+  13 |      2 | s4            | 70%                                                                      | t             |
+  14 |      2 | s4            | 50%                                                                      | f             |
+  15 |      2 | s4            | 80%                                                                      | f             |
+  19 |      2 | s4            | 60%                                                                      | f             |
+
+
+  4 | Which of these countries has the largest amount of fresh water?                                   |         |      2 | s5            |            |            | ../userUpload/FreshWater.jpg
+  13 |      2 | s4            | 70%                                                                      | t             |
+  14 |      2 | s4            | 50%                                                                      | f             |
+  15 |      2 | s4            | 80%                                                                      | f             |
+  19 |      2 | s4            | 60%                                                                      | f             |
+
+
+  6 | When water freezes it expands by:                                                                 |         |      2 | s6            |            |            | ../userUpload/ice.jpg
+  21 |      2 | s6            | 15%                                                                      | f             |
+  22 |      2 | s6            | 12%                                                                      | f             |
+  23 |      2 | s6            | 9%                                                                       | t             |
+  26 |      2 | s6            | 3%                                                                       | f             |
+
+
+
+  7 | Which of these animals hold hands while they sleep?                                               |         |      3 | s7            |            |            | ../userUpload/animals.jpg
+  24 |      3 | s7            | Sea Otters                                                               | t             |
+  25 |      3 | s7            | Chimps                                                                   | f             |
+  27 |      3 | s7            | Beavers                                                                  | f             |
+  28 |      3 | s7            | Geckos                                                                   | f             |
+
+
+  8 | Which of the following animals has 3 hearts?                                                      |         |      3 | s8            |            |            | ../userUpload/heart.jpg
+  29 |      3 | s8            | Whale                                                                    | f             |
+  30 |      3 | s8            | Panda                                                                    | f             |
+  31 |      3 | s8            | Octopus                                                                  | t             |
+  34 |      3 | s8            | Kangaroo                                                                 | f             |
+
+
+  9 | Ants can carry:                                                                                   |         |      3 | s9            |            |            | ../userUpload/ants.jpg
+  32 |      3 | s9            | 3 times their weight                                                     | f             |
+  33 |      3 | s9            | 10 times their weight                                                    | f             |
+  35 |      3 | s9            | 33 times their weight                                                    | f             |
+  36 |      3 | s9            | 20 times their weight                                                    | t             |
+
+
+
+
+ 11 | How many flowers does a honeybee worker need to visit to produce 1 pound of honey?                |         |      4 | s11           |            |            | ../userUpload/beeFlower.jpg
+  40 |      4 | s11           | 50                                                                       | f             |
+  41 |      4 | s11           | 17,000                                                                   | f             |
+  43 |      4 | s11           | 2 Million                                                                | t             |
+  44 |      4 | s11           | 100,000                                                                  | f             |
+
+ 10 | What percentage of the earth’s surface is used to grow food?                                      |         |      4 | s10           |            |            | ../userUpload/agriculturalLand.jpg
+  37 |      4 | s10           | 34%                                                                      | f             |
+  38 |      4 | s10           | 11%                                                                      | t             |
+  39 |      4 | s10           | 25%                                                                      | f             |
+  42 |      4 | s10           | 13%                                                                      | f             |
+
+
+
+ 12 | Which of the following countries has the highest coffee consumption per capita?                   |         |      4 | s12           |            |            | ../userUpload/coffee.jpg
+  45 |      4 | s12           | Finland                                                                  | t             |
+  46 |      4 | s12           | Colombia                                                                 | f             |
+  47 |      4 | s12           | Brazil                                                                   | f             |
+  48 |      4 | s12           | Canada                                                                   | f             |
+
+
+ 13 | In what year was the blue M&M first introduced?                                                   |         |      5 | s13           |            |            | ../userUpload/blue-mms.jpg
+  49 |      5 | s13           | 1987                                                                     | f             |
+  50 |      5 | s13           | 2001                                                                     | f             |
+  52 |      5 | s13           | 1995                                                                     | t             |
+  53 |      5 | s13           | 1998                                                                     | f             |
+
+
+ 14 | Which of these countries leads the world in cocoa production?                                     |         |      5 | s15           |            |            | ../userUpload/cocoaPlant.jpg
+    57 |      5 | s15           | Brazil                                                                   | f             |
+  58 |      5 | s15           | Indonesia                                                                | f             |
+  59 |      5 | s15           | Ivory Coast                                                              | t             |
+  62 |      5 | s15           | Nigeria                                                                  | f             |
+
+
+ 15 | What popular soda beverage was originally developed as a mixer for whisky?                        |         |      6 | s16           |            |            | ../userUpload/whisky.jpg
+  60 |      6 | s16           | Pepsi                                                                    | f             |
+  61 |      6 | s16           | Coca Cola                                                                | f             |
+  63 |      6 | s16           | Sprite                                                                   | f             |
+  65 |      6 | s16           | Mountain Dew                                                             | t             |
+
+
+
+ 16 | Which of these is the world’s best selling chocolate bar?                                         |         |      5 | s14           |            |            | ../userUpload/chocolateBar.jpg
+  51 |      5 | s14           | Milka                                                                    | f             |
+  54 |      5 | s14           | Snickers                                                                 | t             |
+  55 |      5 | s14           | Cadbury Dairy Milk                                                       | f             |
+  56 |      5 | s14           | Reese's Peanut Butter Cups                                               | f             |
+
+
+ 17 | Which of these is the world’s most consumed drink?                                                |         |      6 | s17           |            |            | ../userUpload/beverage.jpg
+  64 |      6 | s17           | Coffee                                                                   | f             |
+  66 |      6 | s17           | Coca Cola                                                                | f             |
+  71 |      6 | s17           | Beer                                                                     | f             |
+  72 |      6 | s17           | Tea                                                                      | t             |
+
+
+ 18 | What are the average calories in a glass of orange juice?                                         |         |      6 | s18           |            |            | ../userUpload/orangeJuice.jpg
+  67 |      6 | s18           | 45                                                                       | f             |
+  68 |      6 | s18           | 110                                                                      | t             |
+  69 |      6 | s18           | 10                                                                       | f             |
+  70 |      6 | s18           | 80                                                                       | f             |
+
+
+ 19 | Which of the following is the most watched sport in the world?                                    |         |      7 | s20           |            |            | ../userUpload/sports.jpg
+  76 |      7 | s20           | Gymnastics                                                               | f             |
+  77 |      7 | s20           | Football (Soccer)                                                        | t             |
+  78 |      7 | s20           | Volleyball                                                               | f             |
+  79 |      7 | s20           | Basketball                                                               | f             |
+
+
+ 21 | Baseballs were originally made from:                                                              |         |      7 | s19           |            |            | ../userUpload/Baseball.jpg
+  73 |      7 | s19           | Snake skin                                                               | f             |
+  74 |      7 | s19           | Horse foreskin                                                           | t             |
+  75 |      7 | s19           | Turtle skin                                                              | f             |
+  82 |      7 | s19           | Crocodile skin                                                           | f             |
+
+
+ 20 | Who tops the list of athletes with most medals from the summer Olympic Games?                     |         |      7 | s21           |            |            | ../userUpload/olympics.jpg
+  80 |      7 | s21           | Michael Phelps - USA                                                     | t             |
+  81 |      7 | s21           | Larisa Latynina - Soviet Union                                           | f             |
+  83 |      7 | s21           | Takashi Ono - Japan                                                      | f             |
+  84 |      7 | s21           | Birgit Fischer - Germany                                                 | f             |
+
+
+ 22 | How many triple doubles did Russell Westbrook have in the 2016/2017 season?                       |         |      8 | s23           |            |            | ../userUpload/russellWestbrook.jpg
+  89 |      8 | s23           | 42                                                                       | t             |
+  90 |      8 | s23           | 22                                                                       | f             |
+  91 |      8 | s23           | 13                                                                       | f             |
+  92 |      8 | s23           | 46                                                                       | f             |
+
+
+ 23 | Which team won the most NBA championships?                                                        |         |      8 | s22           |            |            | ../userUpload/nba.jpg
+  85 |      8 | s22           | Boston Celtics                                                           | t             |
+  86 |      8 | s22           | Golden State Warriors                                                    | f             |
+  87 |      8 | s22           | Chicago Bulls                                                            | f             |
+  88 |      8 | s22           | Miami Heat                                                               | f             |
+
+
+
+ 28 | Who has the most famous receding hairline in basketball?                                          |         |      8 | s24           |            |            | ../userUpload/recedingHairline.jpg
+  93 |      8 | s24           | Lebron James                                                             | t             |
+  94 |      8 | s24           | Derrick Rose                                                             | f             |
+  95 |      8 | s24           | Blake Griffin                                                            | f             |
+  96 |      8 | s24           | James Harden                                                             | f             |
+
+
+ 24 | Which football team has won the most European titles?                                             |         |      9 | s25           |            |            | ../userUpload/championsLeague.jpg
+  97 |      9 | s25           | Bayern München                                                           | f             |
+  98 |      9 | s25           | Barcelona                                                                | f             |
+  99 |      9 | s25           | Juventus                                                                 | f             |
+ 100 |      9 | s25           | Real Madrid                                                              | t             |
+
+
+ 25 | Who currently holds the world record transfer fee in football (soccer)?                           |         |      9 | s26           |            |            | ../userUpload/pogba-ronaldo.jpg
+ 101 |      9 | s26           | Cristiano Ronaldo                                                        | f             |
+ 102 |      9 | s26           | Paul Pogba                                                               | t             |
+ 103 |      9 | s26           | Lionel Messi                                                             | f             |
+ 105 |      9 | s26           | Gareth Bale                                                              | f             |
+
+
+ 26 | Which national team won the first World Cup in 1930?                                              |         |      9 | s27           |            |            | ../userUpload/worldCup.jpg
+  104 |      9 | s27           | Brazil                                                                   | f             |
+ 106 |      9 | s27           | England                                                                  | f             |
+ 107 |      9 | s27           | Uruguay                                                                  | t             |
+ 108 |      9 | s27           | Italy                                                                    | f             |
+
+
+27 | How do we prevent a user’s cookie from being stolen by a ‘man in the middle’?                     |         |     10 | s28           |            |            | ../userUpload/stealingCookies.jpg
+ 109 |     10 | s28           | Encrypt the cookie                                                       | f             |
+ 110 |     10 | s28           | Enable HTTPS for our site                                                | t             |
+ 113 |     10 | s28           | Use a VPN                                                                | f             |
+ 114 |     10 | s28           | Use server-side session storage                                          | f             |
+
+
+ 29 | How does a server set a cookie on a client browser?                                               |         |     10 | s29           |            |            | ../userUpload/cookies.jpg
+  111 |     10 | s29           | The server sends cookie-data in the HTTP response header                 | t             |
+ 112 |     10 | s29           | The server sends cookie-data in the HTTP response body                   | f             |
+: 115 |     10 | s29           | The server does not set the cookie, the client does                      | f             |
+ 117 |     10 | s29           | The server sets cookie-data directly (without need for an HTTP response) | f             |
+
+
+ 30 | What if any are the access restrictions for Websites when dealing with cookies?                   |         |     10 | s30           |            |            | ../userUpload/deleteCookies.jpg
+ 116 |     10 | s30           | Any website domain can access any cookie                                 | f             |
+ 118 |     10 | s30           | Only the website domain that created a cookie can access it              | t             |
+ 119 |     10 | s30           | The website domain that pays the most                                    | f             |
+ 121 |     10 | s30           | All cookies are private, not accessible to any website                   | f             |
+
+
+ 31 | What kind of information can be received by an Ajax request?                                      |         |     11 | s31           |            |            | ../userUpload/developer.png
+ 120 |     11 | s31           | JSON                                                                     | f             |
+ 122 |     11 | s31           | JSON and HTML                                                            | f             |
+ 125 |     11 | s31           | Any text                                                                 | t             |
+ 124 |     11 | s31           | HTML                                                                     | f             |
+
+
+ 32 | In a POST request, where are the parameters typically sent?                                       |         |     12 | s34           |            |            | ../userUpload/laptop.jpg
+ 123 |     11 | s32           | Boolean                                                                  | f             |
+ 126 |     11 | s32           | Array                                                                    | t             |
+ 127 |     11 | s32           | Number                                                                   | f             |
+ 129 |     11 | s32           | String                                                                   | f             |
+
+
+ 33 | Which of the following is not a standard DOM event?                                               |         |     12 | s35           |            |            | ../userUpload/webDevelopers.jpg
+ 128 |     11 | s33           | GET                                                                      | f             |
+ 130 |     11 | s33           | PUT                                                                      | f             |
+ 131 |     11 | s33           | DELETE                                                                   | f             |
+ 133 |     11 | s33           | POST                                                                     | t             |
+
+
+ 34 | Which of the following is NOT a primitive data type in JavaScript?                                |         |     11 | s32           |            |            | ../userUpload/code.jpeg
+ 132 |     12 | s34           | In the request headers only                                              | f             |
+ 134 |     12 | s34           | Mainly in the request headers, and sometimes the body                    | f             |
+ 135 |     12 | s34           | In the request body only                                                 | t             |
+ 137 |     12 | s34           | Mainly in the request body, and sometimes the headers                    | f             |
+
+
+ 35 | What HTTP method is most commonly used in web forms to submit data from the client to the server? |         |     11 | s33           |            |            | ../userUpload/choosing-a-web-designer.jpg
+ 136 |     12 | s35           | Drag                                                                     | f             |
+ 138 |     12 | s35           | Refresh                                                                  | t             |
+ 140 |     12 | s35           | Click                                                                    | f             |
+ 141 |     12 | s35           | Keydown                                                                  | f             |
+
+
+ 36 | How do you switch between databases in the MongoDB shell?                                         |         |     12 | s36           |            |            | ../userUpload/database.jpg
+ 139 |     12 | s36           | open DATABASE_NAME                                                       | f             |
+ 142 |     12 | s36           | use DATABASE_NAME                                                        | t             |
+ 144 |     12 | s36           | /c DATABASE_NAME                                                         | f             |
+ 143 |     12 | s36           | connect DATABASE_NAME                                                    | f             |

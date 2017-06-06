@@ -1,0 +1,81 @@
+.masthead {
+    background: hsl(0, 0%, 9%);
+}
+
+.content {
+    background-color: black;
+}
+
+.main-area {
+    padding: 1.5em;
+}
+
+.sidebar {
+    background: white;
+}
+
+.site-title {
+    background-image: url("../images/group.jpg");
+    background-repeat: repeat-x;
+    font-family: 'PT Sans', sans-serif;
+    opacity: 1;
+    padding-top: .75em;
+    padding-bottom: .5em;
+    font-size: 3em;
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+    height: 12vh;
+    text-shadow: .1em .1em .2em black;
+}
+
+@media screen and (min-width: 400px) {
+    .site-title {
+        background-image: url("../images/group_sm.jpg");
+        font-size: 1.2em;
+        padding: .75em;
+        height: 4vh;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .site-title {
+        background-image: url("../images/group_md.jpg");
+        font-size: 2em;
+        height: 6vh;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .site-title {
+        background-image: url("../images/group.jpg");
+        font-size: 2.5em;
+        height: 8vh;
+    }
+}
+
+@media screen and (min-width: 1800px) {
+    .site-title {
+        background-image: url("../images/group.jpg");
+        font-size: 4em;
+        height: 10vh;
+    }
+}
+
+
+/*
+.site-title a {
+    /*color: hsl(5, 45%, 95%);*/
+
+
+/*text-decoration: none;*/
+
+
+}
+
+/*.site-title a:hover {*/
+
+/*text-decoration: underline;*/
+
+}
+*/

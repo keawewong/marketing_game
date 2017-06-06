@@ -1,0 +1,36 @@
+Home page
+
+Live Play:
+
+Click live button, go to join live. Filemaker starts live, open and close game.
+  |
+  |___if live and open, no move, user is the leader, set by Filemaker
+  |
+  |___if live and open, has move, user is follower
+  |       |
+  |       |___post player name, Filemaker set player ID, latest move
+  |
+  |___If not live or not open, "say please check back again."
+
+
+To do:
+
+remove webdirect interface - done
+
+same player can go back to the same live game
+
+check name, number of characters entered.
+
+total score effect
+
+player message colour change
+
+check the live open status
+
+Check last card
+
+Deck status for going live
+
+pick a unique effect for the result
+
+CSS fonts load

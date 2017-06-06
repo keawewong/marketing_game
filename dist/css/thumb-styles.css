@@ -1,0 +1,193 @@
+/* Card Based Layout - Base styles */
+
+body {
+    background: hsl(0, 0%, 99%);
+}
+
+.masthead {
+    background: hsl(0, 0%, 20%);
+}
+
+.site-title {
+    color: white;
+}
+
+.thumbSheet {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.thumb {
+    background: white;
+    display: flex;
+    flex-flow: column;
+
+}
+
+.thumb .anchor {
+    color: black;
+    text-decoration: none;
+}
+
+
+.thumb:hover {
+    box-shadow: 4px 4px 8px rgba(200, 200, 200, .6);
+}
+
+.thumb-title {
+    padding: 1.4em;
+}
+
+.thumb-title {
+    margin-top: 0;
+}
+
+.thumb-control {
+    display: flex;
+    height: 10%;
+}
+
+@media screen and (min-width: 400px) {
+    .thumbSheet {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .thumb {
+        background: white;
+        display: flex;
+        flex-flow: column;
+        max-width: 40vw;
+        align-items: center;
+        margin-bottom: 5%;
+    }
+    .thumb .anchor {
+        color: black;
+        text-decoration: none;
+        flex: 1 0 40%;
+        overflow: hidden;
+        background-color: #666;
+
+    }
+
+
+    .thumb-title {
+        padding-left: 3%;
+        padding-right: 3%;
+        margin-top: -10%;
+        overflow: hidden;
+        flex: 0 0 50%;
+        /*margin-top: -.5em;*/
+        margin-bottom: -1em;
+        font-weight: normal;
+        font-size: large;
+    }
+    .thumb-control {
+        display: flex;
+        flex: 0 1 20;
+        justify-content: flex-end;
+
+        align-items: flex-end;
+    }
+    .thumb-control label {
+        margin-bottom: .5em;
+        color: green;
+        font-weight: normal;
+        font-size: small;
+        text-align: right;
+        margin-left: .2em;
+    }
+    .liveButton {
+
+        border: none;
+        background-color: white;
+        font-size: xx-large;
+        margin-bottom: 5%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .thumbSheet {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .thumb {
+        flex: 0 1 33%;
+        border: 1px solid #999;
+    }
+    .thumb .anchor {
+        color: black;
+        text-decoration: none;
+        flex: 3 3;
+        overflow: hidden;
+        background-color: #666;
+    }
+    .thumb:hover {
+        box-shadow: 4px 4px 8px rgba(200, 200, 200, .6);
+    }
+    .thumb-title {
+        padding-left: 1em;
+        padding-right: 1em;
+        overflow: hidden;
+        flex: 1 1;
+        margin-top: -.5em;
+        margin-bottom: -1em;
+        font-weight: normal;
+        font-size: large;
+    }
+    .thumb-control {
+        display: flex;
+        flex: 1 1;
+        justify-content: flex-end;
+        padding-right: 1em;
+        align-items: center;
+    }
+    .thumb-control label {
+        margin-right: 1em;
+        color: green;
+        font-weight: normal;
+        font-size: small;
+        text-align: right;
+        padding-left: 2%;
+    }
+    .liveButton {
+        align-items: center;
+        border: none;
+        background-color: white;
+        font-size: xx-large;
+        margin-bottom: 5%;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .thumb {
+        flex: 0 1 24%;
+        border: 1px solid #999;
+    }
+    .thumb {
+        display: flex;
+        /*flex: 0 1 calc(33% - 1em);*/
+        margin-bottom: 2em;
+    }
+        .thumb-title {
+        padding-left: .5em;
+        padding-right: .5em;
+        flex: 1 1;
+        margin-top: -.5em;
+        margin-bottom: -1em;
+        font-size: 1em;
+    }
+}
+
+@media screen and (min-width: 1028px) {
+            .thumb-title {
+        padding-left: .5em;
+        padding-right: .5em;
+        flex: 1 1;
+        margin-top: .1em;
+        margin-bottom: -1em;
+        font-size: 1.25em;
+    }
+}
